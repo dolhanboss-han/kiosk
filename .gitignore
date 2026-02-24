@@ -1,0 +1,12 @@
+.bashrc
+.cache/
+.gitconfig
+.ipython/
+.local/
+.profile
+.python_history
+.pythonstartup.py
+.vimrc
+.virtualenvs/
+__pycache__/
+*.pyc
